@@ -30,7 +30,7 @@ function App() {
     setLoading(true);
     setError('');
     try {
-      const response = await axios.get(`http://localhost:5000/weather?city=${encodeURIComponent(city)}`);
+      const response = await axios.get(`https://mausam-a-weather-dashboards-backend.onrender.com/weather?city=${encodeURIComponent(city)}`);
       setWeather(response.data);
     } catch (err) {
       setError(err.response?.data.error || 'Something went wrong');
