@@ -1,7 +1,9 @@
 
-# Mausam – A Weather Dashboard
+<h1 align="center">Mausam – A Weather Dashboard</h1>
 
-![Header GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVieG94NHM0YnRtejltOXQxN3R4MXZocWkxdnlkbGQxaGp2MXNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6b9VSLCKfU85n7xhLG/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVieG94NHM0YnRtejltOXQxN3R4MXZocWkxdnlkbGQxaGp2MXNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6b9VSLCKfU85n7xhLG/giphy.gif" alt="Header GIF">
+</p>
 
 A modern, responsive weather dashboard that delivers real-time conditions, temperature, humidity, wind, and more—powered by OpenWeather and built for a seamless experience across devices.
 
@@ -160,8 +162,8 @@ Steps:
 - Render – for backend hosting
 - React, Express, Node.js – core technologies
 
----
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW95MHQ0bmhrbTBiajNmbDFsODB6NWo5OXIxNHhqeGF3amU4OTdydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gAO9yx102EYTUG5E6/giphy.gif" alt="Footer GIF">
+</p>
 
-![Footer GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW95MHQ0bmhrbTBiajNmbDFsODB6NWo5OXIxNHhqeGF3amU4OTdydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gAO9yx102EYTUG5E6/giphy.gif)
-
-Go Mausam! Stay informed, stay prepared.
+<p align="center"><strong>Go Mausam! Stay informed, stay prepared.</strong></p>
